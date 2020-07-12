@@ -1,5 +1,7 @@
 # Banknote_Authentication
 Analysis of Banknote Authentication Data Set using  Machine Learning Techniques.
+<img src="us_dollar_banknotes_img.jpg" width="900" height="400" />
+
 
 ## Introduction
 Banknotes are a type of negotiable promissory note and are one of the most significant assets of a country. The financial market is being victimized by criminals who make counterfeit banknotes and introduce them into the financial system. For the human eye, the right choice between fictitious and genuine banknotes is almost impossible. This is the reason why we need machine learning techniques. Data analysis helps to address the problem. This paper proposes machine learning techniques to evaluate authentication of banknotes. Supervised learning algorithms and classifiers such as Logistic Regression and Support Vector Machine (SVM) are used to differentiate genuine counterfeit banknotes. The study also shows the comparison of these methods in classification of banknotes. </br>
